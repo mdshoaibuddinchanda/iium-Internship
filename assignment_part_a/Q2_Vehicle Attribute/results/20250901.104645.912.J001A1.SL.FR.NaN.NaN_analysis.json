@@ -1,0 +1,84 @@
+{
+  "image_path": "q2_Images\\20250901.104645.912.J001A1.SL.FR.NaN.NaN.jpg",
+  "image_name": "20250901.104645.912.J001A1.SL.FR.NaN.NaN.jpg",
+  "analysis_timestamp": "2025-09-30T00:12:38.794016",
+  "analysis_time_seconds": 10.56,
+  "image_dimensions": [
+    2048,
+    1600
+  ],
+  "total_vehicles": 2,
+  "incoming_traffic": true,
+  "outgoing_traffic": false,
+  "left_lane_count": 2,
+  "right_lane_count": 0,
+  "vehicles": [
+    {
+      "vehicle_id": 1,
+      "image_name": "20250901.104645.912.J001A1.SL.FR.NaN.NaN.jpg",
+      "type": "truck",
+      "bbox": [
+        532,
+        64,
+        1322,
+        1126
+      ],
+      "color": "green",
+      "brand": "unknown",
+      "model": "unknown",
+      "lane": "left",
+      "confidence": 0.6733343601226807,
+      "license_plate_detected": true,
+      "license_plate_text": "DETECTED",
+      "license_plate_color": "gray",
+      "license_plate_confidence": 0.6,
+      "license_plate_method": "Contour",
+      "logo_detected": true,
+      "logo_bbox": [
+        678,
+        406,
+        794,
+        522
+      ],
+      "logo_type": "circular",
+      "vlm_caption": "a green truck with a red crane on the back",
+      "analysis_method": "Enhanced (YOLO + PaddleOCR + VLM)"
+    },
+    {
+      "vehicle_id": 2,
+      "image_name": "20250901.104645.912.J001A1.SL.FR.NaN.NaN.jpg",
+      "type": "bus",
+      "bbox": [
+        531,
+        59,
+        1311,
+        1139
+      ],
+      "color": "green",
+      "brand": "unknown",
+      "model": "unknown",
+      "lane": "left",
+      "confidence": 0.5764784216880798,
+      "license_plate_detected": true,
+      "license_plate_text": "DETECTED",
+      "license_plate_color": "gray",
+      "license_plate_confidence": 0.6,
+      "license_plate_method": "Contour",
+      "logo_detected": true,
+      "logo_bbox": [
+        679,
+        405,
+        795,
+        521
+      ],
+      "logo_type": "circular",
+      "vlm_caption": "a green truck parked in a parking lot",
+      "analysis_method": "Enhanced (YOLO + PaddleOCR + VLM)"
+    }
+  ],
+  "models_used": {
+    "yolo": true,
+    "paddleocr": false,
+    "blip_vlm": true
+  }
+}

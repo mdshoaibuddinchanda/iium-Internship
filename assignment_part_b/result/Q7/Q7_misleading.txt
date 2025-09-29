@@ -1,0 +1,11 @@
+Misleading images (predicted as non-dog):
+014.jpg -> tiger (80.56%)
+016.jpg -> gyromitra (31.05%)
+018.jpg -> puffer (13.26%)
+021.jpg -> zebra (53.03%)
+022.jpg -> Egyptian cat (20.01%)
+023.jpg -> tabby (54.76%)
+024.jpg -> tabby (58.68%)
+025.jpg -> tiger cat (43.80%)
+026.jpg -> tabby (57.24%)
+027.jpg -> tiger cat (56.67%)

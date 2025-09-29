@@ -1,0 +1,21 @@
+String Similarity Report
+========================
+
+String 1: dssdcv (Length: 6)
+String 2: wrfdsd (Length: 6)
+
+Total Matches: 3
+Total Mismatches: 6
+Similarity: 33.33%
+
+Character-by-Character Comparison:
+----------------------------------
+Pos 1: - vs w → ✗
+Pos 2: - vs r → ✗
+Pos 3: - vs f → ✗
+Pos 4: d vs d → ✓
+Pos 5: s vs - → ✗
+Pos 6: s vs s → ✓
+Pos 7: d vs d → ✓
+Pos 8: c vs - → ✗
+Pos 9: v vs - → ✗

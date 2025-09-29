@@ -1,0 +1,38 @@
+# Core computer vision and utilities
+opencv-python==4.10.0.84
+mediapipe==0.10.9
+numpy>=1.24
+pillow>=10.0.0
+ultralytics>=8.3.0,<9  # YOLOv8 for detection (auto-downloads models)
+pandas>=2.2.0
+
+# Testing framework
+pytest==8.3.3
+
+# OCR and text recognition (for Q1, Q2)
+paddleocr>=2.7.0
+easyocr>=1.7.0  # Alternative OCR engine
+
+# Advanced AI models (for Q2 vehicle analysis)
+transformers>=4.30.0
+accelerate>=0.20.0  # For faster model loading
+webcolors>=1.13  # Color name mapping
+
+# PyTorch CPU builds for Windows (needed for Q7 and used by ultralytics)
+# Use PyTorch's CPU wheel index to ensure CPU-only wheels install on Windows.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1+cpu
+torchvision==0.19.1+cpu
+
+# Additional utilities
+matplotlib>=3.7.0  # For plotting and visualization
+seaborn>=0.12.0  # Statistical plotting
+scikit-learn>=1.3.0  # Machine learning utilities
+tqdm>=4.65.0  # Progress bars
+
+# Notes:
+# - The extra-index line applies to the packages below it (torch/torchvision).
+# - If you have a CUDA-capable GPU and want GPU acceleration, remove the
+#   extra-index line and install the matching CUDA wheels from pytorch.org.
+# - Some packages like PaddleOCR may require additional system dependencies
+# - First run may be slower due to model downloads (requires internet connection)

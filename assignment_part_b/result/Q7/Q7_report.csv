@@ -1,0 +1,28 @@
+filename,prediction,probability
+001.jpg,beagle,0.6875
+002.jpg,Labrador retriever,0.3826
+003.jpg,golden retriever,0.8732
+004.jpg,Labrador retriever,0.8835
+005.jpg,golden retriever,0.9463
+006.jpg,golden retriever,0.5399
+007.jpg,redbone,0.3578
+008.jpg,Labrador retriever,0.4896
+009.jpg,Labrador retriever,0.8933
+010.jpg,Rhodesian ridgeback,0.8802
+011.jpg,Border collie,0.1685
+012.jpg,affenpinscher,0.8643
+013.jpg,Pembroke,0.3825
+014.jpg,tiger,0.8056
+015.jpg,Pomeranian,0.3690
+016.jpg,gyromitra,0.3105
+017.jpg,Dandie Dinmont,0.4844
+018.jpg,puffer,0.1326
+019.jpg,chow,0.3533
+020.jpg,cocker spaniel,0.2839
+021.jpg,zebra,0.5303
+022.jpg,Egyptian cat,0.2001
+023.jpg,tabby,0.5476
+024.jpg,tabby,0.5868
+025.jpg,tiger cat,0.4380
+026.jpg,tabby,0.5724
+027.jpg,tiger cat,0.5667

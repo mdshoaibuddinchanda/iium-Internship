@@ -1,0 +1,79 @@
+Car_ID,Image,OCR_Text,Character,Integrity,Mismatch
+car (1).jpg,Front,JrS3220IC7/L,JrS3220,Broken/Missing,Yes
+car (1).jpg,Front,JrS3220IC7/L,IC,Intact,Yes
+car (1).jpg,Front,JrS3220IC7/L,7/L,Broken/Missing,Yes
+car (1).jpg,Rear,JFS3220,JFS3220,Broken/Missing,Yes
+car (10).jpg,Front,JKB 39 2A1/,JKB 39 2,Broken/Missing,Yes
+car (10).jpg,Front,JKB 39 2A1/,A1,Broken/Missing,Yes
+car (10).jpg,Front,JKB 39 2A1/,/,Broken/Missing,Yes
+car (10).jpg,Rear,099X32a2423322,099X3,Broken/Missing,Yes
+car (10).jpg,Rear,099X32a2423322,2a,Broken/Missing,Yes
+car (10).jpg,Rear,099X32a2423322,2423322,Broken/Missing,Yes
+car (11).jpg,Front,/AT,/,Broken/Missing,Yes
+car (11).jpg,Front,/AT,AT,Broken/Missing,Yes
+car (11).jpg,Rear,192E Hr,192E Hr,Broken/Missing,Yes
+car (12).jpg,Front,JD 12541,JD 1254,Broken/Missing,Yes
+car (12).jpg,Front,JD 12541,1,Broken/Missing,Yes
+car (12).jpg,Rear,RJDL 1254/,R,Broken/Missing,Yes
+car (12).jpg,Rear,RJDL 1254/,JDL 1254,Broken/Missing,Yes
+car (12).jpg,Rear,RJDL 1254/,/,Broken/Missing,Yes
+car (2).jpg,Front,EETMB361I,EE,Broken/Missing,Yes
+car (2).jpg,Front,EETMB361I,TM,Broken/Missing,Yes
+car (2).jpg,Front,EETMB361I,B361,Broken/Missing,Yes
+car (2).jpg,Front,EETMB361I,I,Broken/Missing,Yes
+car (2).jpg,Rear,JalTMBPB 36168090K4/J,Jal,Broken/Missing,Yes
+car (2).jpg,Rear,JalTMBPB 36168090K4/J,TM,Broken/Missing,Yes
+car (2).jpg,Rear,JalTMBPB 36168090K4/J,BPB 3616,Broken/Missing,Yes
+car (2).jpg,Rear,JalTMBPB 36168090K4/J,80,Intact,Yes
+car (2).jpg,Rear,JalTMBPB 36168090K4/J,90,Broken/Missing,Yes
+car (2).jpg,Rear,JalTMBPB 36168090K4/J,K4/J,Broken/Missing,Yes
+car (3).jpg,Front,JPH 87911BPC 301I1E,JPH 8791,Intact,Yes
+car (3).jpg,Front,JPH 87911BPC 301I1E,1,Broken/Missing,Yes
+car (3).jpg,Front,JPH 87911BPC 301I1E,BPC 301I,Broken/Missing,Yes
+car (3).jpg,Front,JPH 87911BPC 301I1E,1E,Broken/Missing,Yes
+car (3).jpg,Rear,BPC 3013/,BPC 301,Intact,Yes
+car (3).jpg,Rear,BPC 3013/,3/,Broken/Missing,Yes
+car (4).jpg,Front,-1JHAT 955,-,Broken/Missing,Yes
+car (4).jpg,Front,-1JHAT 955,1,Broken/Missing,Yes
+car (4).jpg,Front,-1JHAT 955,JHA,Broken/Missing,Yes
+car (4).jpg,Front,-1JHAT 955,T 955,Broken/Missing,Yes
+car (4).jpg,Rear,1JHA 9515,1,Broken/Missing,Yes
+car (4).jpg,Rear,1JHA 9515,JHA 9515,Broken/Missing,Yes
+car (5).jpg,Front,1JJD '142,1,Broken/Missing,Yes
+car (5).jpg,Front,1JJD '142,JJD '142,Broken/Missing,Yes
+car (5).jpg,Rear,/JJD 114212,/,Broken/Missing,Yes
+car (5).jpg,Rear,/JJD 114212,JJD 1142,Intact,Yes
+car (5).jpg,Rear,/JJD 114212,12,Broken/Missing,Yes
+car (6).jpg,Front,ISUZUJVH 92751I,ISUZU,Broken/Missing,Yes
+car (6).jpg,Front,ISUZUJVH 92751I,JVH 9275,Broken/Missing,Yes
+car (6).jpg,Front,ISUZUJVH 92751I,1I,Broken/Missing,Yes
+car (6).jpg,Rear,MENYEDIARAN PERKHIDMATANKATERING 8 KANOPI UNTUKDAPURIEUPELBAGAI MAJUS013-3175272 - ABG AR1S / G13-7197937-KAK LI2AiJ.d 927511,MENYEDIARAN PERKHIDMATAN,Intact,Yes
+car (6).jpg,Rear,MENYEDIARAN PERKHIDMATANKATERING 8 KANOPI UNTUKDAPURIEUPELBAGAI MAJUS013-3175272 - ABG AR1S / G13-7197937-KAK LI2AiJ.d 927511,KATERING 8 KANOPI UNTUK,Intact,Yes
+car (6).jpg,Rear,MENYEDIARAN PERKHIDMATANKATERING 8 KANOPI UNTUKDAPURIEUPELBAGAI MAJUS013-3175272 - ABG AR1S / G13-7197937-KAK LI2AiJ.d 927511,DAPURIEU,Broken/Missing,Yes
+car (6).jpg,Rear,MENYEDIARAN PERKHIDMATANKATERING 8 KANOPI UNTUKDAPURIEUPELBAGAI MAJUS013-3175272 - ABG AR1S / G13-7197937-KAK LI2AiJ.d 927511,PELBAGAI MAJUS,Intact,Yes
+car (6).jpg,Rear,MENYEDIARAN PERKHIDMATANKATERING 8 KANOPI UNTUKDAPURIEUPELBAGAI MAJUS013-3175272 - ABG AR1S / G13-7197937-KAK LI2AiJ.d 927511,013-3175272 - ABG AR1S / G13-7197937-KAK LI2A,Intact,Yes
+car (6).jpg,Rear,MENYEDIARAN PERKHIDMATANKATERING 8 KANOPI UNTUKDAPURIEUPELBAGAI MAJUS013-3175272 - ABG AR1S / G13-7197937-KAK LI2AiJ.d 927511,i,Broken/Missing,Yes
+car (6).jpg,Rear,MENYEDIARAN PERKHIDMATANKATERING 8 KANOPI UNTUKDAPURIEUPELBAGAI MAJUS013-3175272 - ABG AR1S / G13-7197937-KAK LI2AiJ.d 927511,J.d 9275,Broken/Missing,Yes
+car (6).jpg,Rear,MENYEDIARAN PERKHIDMATANKATERING 8 KANOPI UNTUKDAPURIEUPELBAGAI MAJUS013-3175272 - ABG AR1S / G13-7197937-KAK LI2AiJ.d 927511,11,Broken/Missing,Yes
+car (7).jpg,Front,PH71IC7,PH71,Broken/Missing,Yes
+car (7).jpg,Front,PH71IC7,IC,Broken/Missing,Yes
+car (7).jpg,Front,PH71IC7,7,Broken/Missing,Yes
+car (7).jpg,Rear,105BEAVICSLJPH 77137,105,Broken/Missing,Yes
+car (7).jpg,Rear,105BEAVICSLJPH 77137,B,Broken/Missing,Yes
+car (7).jpg,Rear,105BEAVICSLJPH 77137,EAVICS,Broken/Missing,Yes
+car (7).jpg,Rear,105BEAVICSLJPH 77137,L,Broken/Missing,Yes
+car (7).jpg,Rear,105BEAVICSLJPH 77137,JPH 7713,Broken/Missing,Yes
+car (7).jpg,Rear,105BEAVICSLJPH 77137,7,Broken/Missing,Yes
+car (8).jpg,Front,m22PH -71,m,Broken/Missing,Yes
+car (8).jpg,Front,m22PH -71,2,Broken/Missing,Yes
+car (8).jpg,Front,m22PH -71,2,Broken/Missing,Yes
+car (8).jpg,Front,m22PH -71,PH -71,Broken/Missing,Yes
+car (8).jpg,Rear,EILL HIr),EILL HIr,Broken/Missing,Yes
+car (8).jpg,Rear,EILL HIr),),Broken/Missing,Yes
+car (9).jpg,Front,WD 7922C771,WD 7922C,Broken/Missing,Yes
+car (9).jpg,Front,WD 7922C771,7,Broken/Missing,Yes
+car (9).jpg,Front,WD 7922C771,71,Broken/Missing,Yes
+car (9).jpg,Rear,m1TMA7922C,m,Broken/Missing,Yes
+car (9).jpg,Rear,m1TMA7922C,1,Broken/Missing,Yes
+car (9).jpg,Rear,m1TMA7922C,TMA,Broken/Missing,Yes
+car (9).jpg,Rear,m1TMA7922C,7922C,Broken/Missing,Yes

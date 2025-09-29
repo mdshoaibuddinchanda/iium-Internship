@@ -1,0 +1,19 @@
+String Similarity Report
+========================
+
+String 1: 132154 (Length: 6)
+String 2: 1321321 (Length: 7)
+
+Total Matches: 4
+Total Mismatches: 3
+Similarity: 57.14%
+
+Character-by-Character Comparison:
+----------------------------------
+Pos 1: 1 vs 1 → ✓
+Pos 2: 3 vs 3 → ✓
+Pos 3: 2 vs 2 → ✓
+Pos 4: 1 vs 1 → ✓
+Pos 5: - vs 3 → ✗
+Pos 6: 5 vs 2 → ✗
+Pos 7: 4 vs 1 → ✗

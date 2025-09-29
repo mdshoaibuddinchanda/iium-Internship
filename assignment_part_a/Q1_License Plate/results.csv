@@ -1,0 +1,4 @@
+Image,DetectedText,ExpectedText,Similarity(%),MatchFlag
+car (1).jpg,None,car (1),0.00,NO
+car (10).jpg,None,car (10),0.00,NO
+car (11).jpg,None,car (11),0.00,NO
